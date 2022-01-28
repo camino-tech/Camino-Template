@@ -1,5 +1,9 @@
 const mongoose = require('mongoose');
 
+// renaming to make it easier if not you would need to do
+/**
+ * const stuffSchema = new mongoose.Schema({...})
+ */
 const Schema = mongoose.Schema;
 
 // template schema is a schema for the stuffs collection
