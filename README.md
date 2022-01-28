@@ -1,6 +1,6 @@
 # camino-template
 
-## Prerequsites
+## Prerequisites
 To ensure that you can run the server you must first run
 ```
 sudo npm i -g nodemon
